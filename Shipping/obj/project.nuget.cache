@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "osabxZKeyB7niZ2E91hHDZ75XkF6Q5w0uWuiyoBbTTJPCYgUNU2CdqGCYzG3EmOUIxGyEY5h/GYGrk12V/Yjug==",
+  "success": true,
+  "projectFilePath": "C:\\work\\learning\\.net\\RetailDemo\\Shipping\\Shipping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrehman1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\mrehman1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mrehman1\\.nuget\\packages\\nservicebus\\9.0.0\\nservicebus.9.0.0.nupkg.sha512",
+    "C:\\Users\\mrehman1\\.nuget\\packages\\nservicebus.messageinterfaces\\1.0.0\\nservicebus.messageinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\mrehman1\\.nuget\\packages\\system.formats.asn1\\8.0.0\\system.formats.asn1.8.0.0.nupkg.sha512",
+    "C:\\Users\\mrehman1\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512",
+    "C:\\Users\\mrehman1\\.nuget\\packages\\system.security.cryptography.xml\\8.0.0\\system.security.cryptography.xml.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

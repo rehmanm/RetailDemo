@@ -1,0 +1,303 @@
+﻿2024-04-26 12:59:23.002 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 12:59:23.198 INFO  No valid license could be found. Falling back to trial license with start date '2023-04-11'.
+2024-04-26 12:59:23.204 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=9.0.0&t=0&p=windows&f=8
+2024-04-26 12:59:23.208 WARN  Opening browser to: https://particular.net/license/nservicebus?v=9.0.0&t=0&p=windows&f=8
+2024-04-26 13:10:56.220 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 13:10:56.359 INFO  No valid license could be found. Falling back to trial license with start date '2023-04-11'.
+2024-04-26 13:10:56.365 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=9.0.0&t=0&p=windows&f=8
+2024-04-26 13:10:56.369 WARN  Opening browser to: https://particular.net/license/nservicebus?v=9.0.0&t=0&p=windows&f=8
+2024-04-26 14:45:14.861 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 14:45:15.137 INFO  No valid license could be found. Falling back to trial license with start date '2023-04-11'.
+2024-04-26 14:45:15.146 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=9.0.0&t=0&p=windows&f=8
+2024-04-26 14:45:15.152 WARN  Opening browser to: https://particular.net/license/nservicebus?v=9.0.0&t=0&p=windows&f=8
+2024-04-26 14:49:23.910 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 14:49:24.066 INFO  No valid license could be found. Falling back to trial license with start date '2023-04-11'.
+2024-04-26 14:49:24.072 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=9.0.0&t=0&p=windows&f=8
+2024-04-26 14:49:24.076 WARN  Opening browser to: https://particular.net/license/nservicebus?v=9.0.0&t=0&p=windows&f=8
+2024-04-26 14:54:40.802 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 14:54:42.213 INFO  Unknown Input, Please try again
+2024-04-26 14:54:42.218 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 14:54:44.216 INFO  Unknown Input, Please try again
+2024-04-26 14:54:44.219 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 14:54:46.763 INFO  Initiating shutdown.
+2024-04-26 14:54:46.781 INFO  Shutdown complete.
+2024-04-26 14:59:18.272 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 14:59:18.592 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 14:59:37.325 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 14:59:41.878 INFO  Unknown Input, Please try again
+2024-04-26 14:59:41.883 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 14:59:46.206 INFO  Sending PlaceOrder Command, OrderId = bbee4a89-86b4-43f6-864f-b6b544eae279
+2024-04-26 14:59:46.335 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 14:59:46.379 INFO  Received PlaceOrder, OrderId = bbee4a89-86b4-43f6-864f-b6b544eae279
+2024-04-26 14:59:49.153 INFO  Sending PlaceOrder Command, OrderId = 2eabcc12-aa2e-474f-8e1e-b953c20b3cd0
+2024-04-26 14:59:49.163 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 14:59:49.175 INFO  Received PlaceOrder, OrderId = 2eabcc12-aa2e-474f-8e1e-b953c20b3cd0
+2024-04-26 14:59:52.207 INFO  Initiating shutdown.
+2024-04-26 14:59:52.229 INFO  Shutdown complete.
+2024-04-26 15:02:39.432 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:02:39.859 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:02:47.913 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:02:49.574 INFO  Sending PlaceOrder Command, OrderId = b8df83fd-f822-49a0-a1c4-f2bcecadd9a2
+2024-04-26 15:02:49.650 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:02:49.691 INFO  Received PlaceOrder, OrderId = b8df83fd-f822-49a0-a1c4-f2bcecadd9a2
+2024-04-26 15:02:51.273 INFO  Sending PlaceOrder Command, OrderId = 5be72dcc-f32c-44ae-a65d-b5a35acb4710
+2024-04-26 15:02:51.283 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:02:51.306 INFO  Received PlaceOrder, OrderId = 5be72dcc-f32c-44ae-a65d-b5a35acb4710
+2024-04-26 15:02:52.848 INFO  Sending PlaceOrder Command, OrderId = 94c9f8c9-2d67-4d8d-9ff0-88fc65f025cb
+2024-04-26 15:02:52.860 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:02:52.872 INFO  Received PlaceOrder, OrderId = 94c9f8c9-2d67-4d8d-9ff0-88fc65f025cb
+2024-04-26 15:02:53.994 INFO  Sending PlaceOrder Command, OrderId = c505b894-3633-44eb-ad83-2c698a8f4b02
+2024-04-26 15:02:54.003 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:02:54.012 INFO  Received PlaceOrder, OrderId = c505b894-3633-44eb-ad83-2c698a8f4b02
+2024-04-26 15:03:39.608 INFO  Initiating shutdown.
+2024-04-26 15:03:39.620 INFO  Shutdown complete.
+2024-04-26 15:04:20.269 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:04:20.592 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:04:20.849 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:04:25.213 INFO  Sending PlaceOrder Command, OrderId = 7d5b92a9-c49a-4712-b831-311866ecb52c
+2024-04-26 15:04:25.291 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:04:25.335 INFO  Received PlaceOrder, OrderId = 7d5b92a9-c49a-4712-b831-311866ecb52c
+2024-04-26 15:04:26.517 INFO  Sending PlaceOrder Command, OrderId = 4cf8b6b1-e43b-471d-83ed-158818eeeb81
+2024-04-26 15:04:26.536 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:04:26.553 INFO  Received PlaceOrder, OrderId = 4cf8b6b1-e43b-471d-83ed-158818eeeb81
+2024-04-26 15:04:27.621 INFO  Sending PlaceOrder Command, OrderId = d5c93d01-210a-4ea2-a64c-f6b4b68133e7
+2024-04-26 15:04:27.635 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:04:27.659 INFO  Received PlaceOrder, OrderId = d5c93d01-210a-4ea2-a64c-f6b4b68133e7
+2024-04-26 15:04:28.230 INFO  Sending PlaceOrder Command, OrderId = 02441779-d147-4b1a-872c-2c7747399a98
+2024-04-26 15:04:28.239 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:04:28.258 INFO  Received PlaceOrder, OrderId = 02441779-d147-4b1a-872c-2c7747399a98
+2024-04-26 15:04:28.634 INFO  Sending PlaceOrder Command, OrderId = c13c9b3a-2fd7-4f34-b9e6-61fe8191f3b8
+2024-04-26 15:04:28.644 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:04:28.664 INFO  Received PlaceOrder, OrderId = c13c9b3a-2fd7-4f34-b9e6-61fe8191f3b8
+2024-04-26 15:04:28.942 INFO  Sending PlaceOrder Command, OrderId = 88bcc6b6-91d1-4b98-b9a9-1dc28490a844
+2024-04-26 15:04:28.948 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:04:28.958 INFO  Received PlaceOrder, OrderId = 88bcc6b6-91d1-4b98-b9a9-1dc28490a844
+2024-04-26 15:04:29.450 INFO  Unknown Input, Please try again
+2024-04-26 15:04:29.458 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:04:30.424 INFO  Sending PlaceOrder Command, OrderId = 819951e9-c0dd-4290-9ba4-47d253e588e3
+2024-04-26 15:04:30.431 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:04:30.440 INFO  Received PlaceOrder, OrderId = 819951e9-c0dd-4290-9ba4-47d253e588e3
+2024-04-26 15:04:33.041 INFO  Initiating shutdown.
+2024-04-26 15:04:33.066 INFO  Shutdown complete.
+2024-04-26 15:06:20.405 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:06:20.684 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:06:20.977 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:06:48.748 INFO  Sending PlaceOrder Command, OrderId = fe2d0a43-7740-4494-ac06-adb988f91273
+2024-04-26 15:06:48.824 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:06:48.867 INFO  Received PlaceOrder, OrderId = fe2d0a43-7740-4494-ac06-adb988f91273
+2024-04-26 15:06:49.639 INFO  Sending PlaceOrder Command, OrderId = 42c98ecb-ee70-4fe2-a5be-9ff67a61ea4f
+2024-04-26 15:06:49.647 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:06:49.659 INFO  Received PlaceOrder, OrderId = 42c98ecb-ee70-4fe2-a5be-9ff67a61ea4f
+2024-04-26 15:08:10.884 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:08:11.337 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:08:11.718 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:11:24.714 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:11:25.018 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:12:21.308 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:12:21.698 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:12:22.300 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:12:25.350 INFO  Sending PlaceOrder Command, OrderId = 9eb3bfca-60c3-41a3-bd93-62eedb153a35
+2024-04-26 15:12:25.458 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:12:25.513 INFO  Received PlaceOrder, OrderId = 9eb3bfca-60c3-41a3-bd93-62eedb153a35
+2024-04-26 15:13:46.180 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:13:46.519 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:13:47.214 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:13:49.860 INFO  Sending PlaceOrder Command, OrderId = 548f5e65-1678-467b-b9be-3063e6137ee2
+2024-04-26 15:13:49.943 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:13:49.986 INFO  Received PlaceOrder, OrderId = 548f5e65-1678-467b-b9be-3063e6137ee2
+2024-04-26 15:13:54.555 INFO  Sending PlaceOrder Command, OrderId = edf0aee1-1095-46d2-8ac9-4b906ac07e30
+2024-04-26 15:13:54.564 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:13:54.589 INFO  Received PlaceOrder, OrderId = edf0aee1-1095-46d2-8ac9-4b906ac07e30
+2024-04-26 15:15:06.840 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:15:07.219 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:15:07.901 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:15:11.300 INFO  Sending PlaceOrder Command, OrderId = 879d5b88-480d-42aa-be44-a90f7807c9e1
+2024-04-26 15:15:11.400 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:15:11.447 INFO  Received PlaceOrder, OrderId = 879d5b88-480d-42aa-be44-a90f7807c9e1
+2024-04-26 15:17:06.514 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:17:06.824 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:17:07.314 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:17:10.094 INFO  Sending PlaceOrder Command, OrderId = f2d5a818-fe97-4ad5-8c01-6b570d210d6f
+2024-04-26 15:17:10.193 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:17:10.239 INFO  Received PlaceOrder, OrderId = f2d5a818-fe97-4ad5-8c01-6b570d210d6f
+2024-04-26 15:17:11.102 INFO  Sending PlaceOrder Command, OrderId = d309009b-9b2d-475e-9ea4-fa1843a232b7
+2024-04-26 15:17:11.119 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:17:11.141 INFO  Received PlaceOrder, OrderId = d309009b-9b2d-475e-9ea4-fa1843a232b7
+2024-04-26 15:17:11.737 INFO  Sending PlaceOrder Command, OrderId = 610075aa-57b9-4998-81b7-c70ae879ea09
+2024-04-26 15:17:11.755 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:17:11.767 INFO  Received PlaceOrder, OrderId = 610075aa-57b9-4998-81b7-c70ae879ea09
+2024-04-26 15:17:11.914 INFO  Sending PlaceOrder Command, OrderId = b41f6880-0f42-4cd6-97f3-7ad0789ced28
+2024-04-26 15:17:11.931 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:17:11.942 INFO  Received PlaceOrder, OrderId = b41f6880-0f42-4cd6-97f3-7ad0789ced28
+2024-04-26 15:17:12.186 INFO  Sending PlaceOrder Command, OrderId = 1cd1ef5d-68e0-477d-92ec-0dae50a77d98
+2024-04-26 15:17:12.194 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:17:12.205 INFO  Received PlaceOrder, OrderId = 1cd1ef5d-68e0-477d-92ec-0dae50a77d98
+2024-04-26 15:21:21.487 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:21:21.771 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:21:22.232 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:21:27.375 INFO  Sending PlaceOrder Command, OrderId = 50ff5273-d909-4c4b-a7a1-5a531cf021cb
+2024-04-26 15:21:27.456 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:21:27.506 INFO  Received PlaceOrder, OrderId = 50ff5273-d909-4c4b-a7a1-5a531cf021cb
+2024-04-26 15:21:27.816 INFO  Sending PlaceOrder Command, OrderId = 625a1660-2b39-4b81-981c-5e0ab0e2bcca
+2024-04-26 15:21:27.829 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:21:27.839 INFO  Received PlaceOrder, OrderId = 625a1660-2b39-4b81-981c-5e0ab0e2bcca
+2024-04-26 15:21:28.012 INFO  Sending PlaceOrder Command, OrderId = e05e51a0-8199-4402-9acd-69ab49bdffb1
+2024-04-26 15:21:28.021 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:21:28.035 INFO  Received PlaceOrder, OrderId = e05e51a0-8199-4402-9acd-69ab49bdffb1
+2024-04-26 15:21:28.191 INFO  Sending PlaceOrder Command, OrderId = f3205a82-e588-47df-afc7-a2703d75a11a
+2024-04-26 15:21:28.201 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:21:28.221 INFO  Received PlaceOrder, OrderId = f3205a82-e588-47df-afc7-a2703d75a11a
+2024-04-26 15:21:28.364 INFO  Sending PlaceOrder Command, OrderId = 9d3dc7ab-745a-4074-8370-955e64c9006b
+2024-04-26 15:21:28.374 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:21:28.394 INFO  Received PlaceOrder, OrderId = 9d3dc7ab-745a-4074-8370-955e64c9006b
+2024-04-26 15:21:28.474 INFO  Sending PlaceOrder Command, OrderId = b2ab8834-8728-4c32-87a9-4d0826ca217f
+2024-04-26 15:21:28.484 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:21:28.504 INFO  Received PlaceOrder, OrderId = b2ab8834-8728-4c32-87a9-4d0826ca217f
+2024-04-26 15:22:40.500 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:22:40.829 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:22:41.352 INFO  Press 'P' to place an order, or 'Q' to quit.
+2024-04-26 15:22:43.871 INFO  Sending PlaceOrder command, OrderId = c8fc6d7d-b720-422b-88fd-56b75f609fc9
+2024-04-26 15:22:43.967 INFO  Press 'P' to place an order, or 'Q' to quit.
+2024-04-26 15:22:44.115 INFO  Sending PlaceOrder command, OrderId = 290e7850-7b1a-4cb3-8f0b-371d5f035c2c
+2024-04-26 15:22:44.124 INFO  Press 'P' to place an order, or 'Q' to quit.
+2024-04-26 15:22:44.213 INFO  Sending PlaceOrder command, OrderId = 1efc4127-d107-4707-86a5-5e10123e6287
+2024-04-26 15:22:44.220 INFO  Press 'P' to place an order, or 'Q' to quit.
+2024-04-26 15:22:44.343 INFO  Sending PlaceOrder command, OrderId = 644618b7-be54-40f7-80b3-564c9cd18c1f
+2024-04-26 15:22:44.352 INFO  Press 'P' to place an order, or 'Q' to quit.
+2024-04-26 15:22:44.521 INFO  Sending PlaceOrder command, OrderId = 76589d5f-bd18-44ce-978b-6df4976913bd
+2024-04-26 15:22:44.539 INFO  Press 'P' to place an order, or 'Q' to quit.
+2024-04-26 15:22:45.380 INFO  Sending PlaceOrder command, OrderId = 48e6cedc-8efa-4bfd-a2f2-c4d2e5000642
+2024-04-26 15:22:45.399 INFO  Press 'P' to place an order, or 'Q' to quit.
+2024-04-26 15:22:45.757 INFO  Sending PlaceOrder command, OrderId = d0dbad3c-b860-4c64-a12e-4dafc4fc29c8
+2024-04-26 15:22:45.769 INFO  Press 'P' to place an order, or 'Q' to quit.
+2024-04-26 15:23:54.789 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:23:55.142 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:23:55.714 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:23:58.125 INFO  Sending PlaceOrder Command, OrderId = 69a7cc0e-6fdc-43e8-9131-bc9e52cfcd96
+2024-04-26 15:23:58.209 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:23:58.251 INFO  Received PlaceOrder, OrderId = 69a7cc0e-6fdc-43e8-9131-bc9e52cfcd96
+2024-04-26 15:25:07.955 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:25:08.237 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:25:08.660 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:25:14.835 INFO  Sending PlaceOrder command, OrderId = 3d34acbc-9b58-4bd1-a004-80c6a9a1bda8
+2024-04-26 15:25:14.920 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:25:35.129 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:25:35.584 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:25:36.088 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:25:42.052 INFO  Sending PlaceOrder Command, OrderId = efbb8899-8f89-4217-95a0-4f8bd0240f27
+2024-04-26 15:25:42.149 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:37:01.861 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:37:02.126 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:37:02.528 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:37:07.235 INFO  Sending PlaceOrder Command, OrderId = f8154641-d5b9-4bb2-b7bb-d810f91e5e89
+2024-04-26 15:37:07.313 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:42:59.574 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:42:59.852 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:43:00.199 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:43:03.844 INFO  Sending PlaceOrder Command, OrderId = 6c36c6f0-ca5b-48df-88ad-bb729ba0db82
+2024-04-26 15:43:03.940 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:46:23.781 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:46:24.059 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:46:24.427 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:46:38.949 INFO  Sending PlaceOrder Command, OrderId = 4b48e079-b4bc-4a84-af1f-b8f4272cfe4d
+2024-04-26 15:46:39.044 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:51:58.411 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:51:58.771 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:51:59.124 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:52:04.792 INFO  Sending PlaceOrder Command, OrderId = af2a2179-6384-4904-9ed0-c398ef6de19b
+2024-04-26 15:52:04.886 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:52:46.342 INFO  Sending PlaceOrder Command, OrderId = 33449bf0-1b35-487f-986a-f7e2e7fa445c
+2024-04-26 15:52:46.364 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:31.194 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:55:31.483 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:55:31.813 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:38.864 INFO  Sending PlaceOrder Command, OrderId = ee9f1b31-5861-4450-af47-fabe55a2abca
+2024-04-26 15:55:38.944 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:39.869 INFO  Sending PlaceOrder Command, OrderId = fced44f2-fd51-4c05-8a01-b949634d77b7
+2024-04-26 15:55:39.885 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:40.286 INFO  Sending PlaceOrder Command, OrderId = f1846e1e-0d7d-421c-9b29-53a8c8e0e25c
+2024-04-26 15:55:40.294 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:40.584 INFO  Sending PlaceOrder Command, OrderId = dcc31923-f1ec-4152-ba78-77f6c06048ba
+2024-04-26 15:55:40.594 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:40.860 INFO  Sending PlaceOrder Command, OrderId = 5f8bced0-8610-410d-aaca-59836ab7e308
+2024-04-26 15:55:40.872 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:41.125 INFO  Sending PlaceOrder Command, OrderId = be803941-0e71-4e6c-a4c0-6a7c1cd2c669
+2024-04-26 15:55:41.136 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:47.941 INFO  Sending PlaceOrder Command, OrderId = 643d83fa-fff5-49d3-8893-ca4725927ca5
+2024-04-26 15:55:47.950 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:55.197 INFO  Sending PlaceOrder Command, OrderId = 1a485c4e-4be5-4d59-8148-56d82a4020f5
+2024-04-26 15:55:55.207 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:56.114 INFO  Sending PlaceOrder Command, OrderId = 88c67b01-1439-43e6-a8dc-55cf650d25fd
+2024-04-26 15:55:56.122 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:57.180 INFO  Sending PlaceOrder Command, OrderId = 9a81cbcc-7073-4518-a5e0-5419399e9b85
+2024-04-26 15:55:57.190 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:57.697 INFO  Sending PlaceOrder Command, OrderId = 3f7dee5d-9aca-4ee8-b8a5-148b3a85af1f
+2024-04-26 15:55:57.716 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:55:58.124 INFO  Sending PlaceOrder Command, OrderId = 885b958d-ce04-454a-bf00-00db1b11ade8
+2024-04-26 15:55:58.133 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:58:40.646 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 15:58:41.190 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:58:41.630 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:58:48.514 INFO  Sending PlaceOrder Command, OrderId = 260d0f1c-3759-439a-9d89-4be161dd5e08
+2024-04-26 15:58:48.597 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:58:49.940 INFO  Sending PlaceOrder Command, OrderId = c0e7f05d-cfbe-4d1e-ab3c-8c7e3c32a07b
+2024-04-26 15:58:49.950 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:58:50.992 INFO  Sending PlaceOrder Command, OrderId = 3c6fff08-750c-48bc-8d68-e0312c3ccdce
+2024-04-26 15:58:51.000 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:58:52.255 INFO  Sending PlaceOrder Command, OrderId = 5de8fd02-196c-430b-a7d0-f710fe4cfd40
+2024-04-26 15:58:52.263 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:58:54.014 INFO  Sending PlaceOrder Command, OrderId = 901a9ed7-539b-4e9b-896a-75349d1f96ea
+2024-04-26 15:58:54.022 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:58:55.435 INFO  Sending PlaceOrder Command, OrderId = f55a398f-7331-4cb0-83f2-96541e985a23
+2024-04-26 15:58:55.453 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:58:56.901 INFO  Sending PlaceOrder Command, OrderId = b6650886-22c3-4425-a210-b9c8565f791f
+2024-04-26 15:58:56.911 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 15:58:58.093 INFO  Sending PlaceOrder Command, OrderId = 7238cd91-020e-4fc1-9aa4-713b608cdb4b
+2024-04-26 15:58:58.103 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 16:00:18.580 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 16:00:18.861 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 16:00:19.166 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 16:00:23.609 INFO  Sending PlaceOrder Command, OrderId = e07cdf84-c62e-4351-bd14-e7cf038d7890
+2024-04-26 16:00:23.708 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 16:00:25.421 INFO  Sending PlaceOrder Command, OrderId = 24ec0e95-83db-436d-84c8-47540753115b
+2024-04-26 16:00:25.434 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 16:07:27.215 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 16:07:27.536 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 16:07:28.002 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 16:07:33.216 INFO  Sending PlaceOrder Command, OrderId = c950fd1d-958e-455b-947f-1ed7ed0d190d
+2024-04-26 16:07:33.299 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 16:08:37.268 INFO  Sending PlaceOrder Command, OrderId = ddb6b439-d35f-41dc-be2f-7270b6e3a4c3
+2024-04-26 16:08:37.278 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 16:12:32.707 INFO  Logging to 'C:\work\learning\.net\RetailDemo\ClientUI\bin\Debug\net8.0\' with level Info
+2024-04-26 16:12:32.974 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 16:12:33.396 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 16:12:36.721 INFO  Sending PlaceOrder Command, OrderId = cea63560-334b-4a8a-a9fd-cc64d43d7eb9
+2024-04-26 16:12:36.818 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 16:12:38.096 INFO  Sending PlaceOrder Command, OrderId = e8572f64-57b6-4dad-b4c4-1e5ce48e6ebf
+2024-04-26 16:12:38.113 INFO  Press 'P' to place an order, or 'Q' to quit
+2024-04-26 16:12:39.451 INFO  Sending PlaceOrder Command, OrderId = 5116e055-f1fe-468d-9dbe-894a0c385c14
+2024-04-26 16:12:39.460 INFO  Press 'P' to place an order, or 'Q' to quit

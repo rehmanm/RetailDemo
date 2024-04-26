@@ -1,0 +1,79 @@
+﻿2024-04-26 15:46:23.582 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Shipping\bin\Debug\net8.0\' with level Info
+2024-04-26 15:46:23.872 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:51:58.318 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Shipping\bin\Debug\net8.0\' with level Info
+2024-04-26 15:51:58.677 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:52:05.135 INFO  Received OrderPlaced, OrderId = af2a2179-6384-4904-9ed0-c398ef6de19b - Should we ship now?
+2024-04-26 15:52:05.195 INFO  Received OrderBilled, OrderId = af2a2179-6384-4904-9ed0-c398ef6de19b - Should we ship now?
+2024-04-26 15:52:46.410 INFO  Received OrderPlaced, OrderId = 33449bf0-1b35-487f-986a-f7e2e7fa445c - Should we ship now?
+2024-04-26 15:52:46.550 INFO  Received OrderBilled, OrderId = 33449bf0-1b35-487f-986a-f7e2e7fa445c - Should we ship now?
+2024-04-26 15:55:31.134 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Shipping\bin\Debug\net8.0\' with level Info
+2024-04-26 15:55:31.422 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:55:39.182 INFO  Received OrderPlaced, OrderId = ee9f1b31-5861-4450-af47-fabe55a2abca - Should we ship now?
+2024-04-26 15:55:39.245 INFO  Received OrderBilled, OrderId = ee9f1b31-5861-4450-af47-fabe55a2abca - Should we ship now?
+2024-04-26 15:55:39.964 INFO  Received OrderPlaced, OrderId = fced44f2-fd51-4c05-8a01-b949634d77b7 - Should we ship now?
+2024-04-26 15:55:39.990 INFO  Received OrderBilled, OrderId = fced44f2-fd51-4c05-8a01-b949634d77b7 - Should we ship now?
+2024-04-26 15:55:40.333 INFO  Received OrderPlaced, OrderId = f1846e1e-0d7d-421c-9b29-53a8c8e0e25c - Should we ship now?
+2024-04-26 15:55:40.367 INFO  Received OrderBilled, OrderId = f1846e1e-0d7d-421c-9b29-53a8c8e0e25c - Should we ship now?
+2024-04-26 15:55:40.636 INFO  Received OrderPlaced, OrderId = dcc31923-f1ec-4152-ba78-77f6c06048ba - Should we ship now?
+2024-04-26 15:55:40.661 INFO  Received OrderBilled, OrderId = dcc31923-f1ec-4152-ba78-77f6c06048ba - Should we ship now?
+2024-04-26 15:55:40.913 INFO  Received OrderPlaced, OrderId = 5f8bced0-8610-410d-aaca-59836ab7e308 - Should we ship now?
+2024-04-26 15:55:40.942 INFO  Received OrderBilled, OrderId = 5f8bced0-8610-410d-aaca-59836ab7e308 - Should we ship now?
+2024-04-26 15:55:43.968 INFO  Received OrderPlaced, OrderId = be803941-0e71-4e6c-a4c0-6a7c1cd2c669 - Should we ship now?
+2024-04-26 15:55:44.005 INFO  Received OrderBilled, OrderId = be803941-0e71-4e6c-a4c0-6a7c1cd2c669 - Should we ship now?
+2024-04-26 15:55:52.170 INFO  Received OrderPlaced, OrderId = 643d83fa-fff5-49d3-8893-ca4725927ca5 - Should we ship now?
+2024-04-26 15:55:52.200 INFO  Received OrderBilled, OrderId = 643d83fa-fff5-49d3-8893-ca4725927ca5 - Should we ship now?
+2024-04-26 15:55:55.245 INFO  Received OrderPlaced, OrderId = 1a485c4e-4be5-4d59-8148-56d82a4020f5 - Should we ship now?
+2024-04-26 15:55:55.276 INFO  Received OrderBilled, OrderId = 1a485c4e-4be5-4d59-8148-56d82a4020f5 - Should we ship now?
+2024-04-26 15:55:56.171 INFO  Received OrderPlaced, OrderId = 88c67b01-1439-43e6-a8dc-55cf650d25fd - Should we ship now?
+2024-04-26 15:55:56.203 INFO  Received OrderBilled, OrderId = 88c67b01-1439-43e6-a8dc-55cf650d25fd - Should we ship now?
+2024-04-26 15:55:57.234 INFO  Received OrderPlaced, OrderId = 9a81cbcc-7073-4518-a5e0-5419399e9b85 - Should we ship now?
+2024-04-26 15:55:57.265 INFO  Received OrderBilled, OrderId = 9a81cbcc-7073-4518-a5e0-5419399e9b85 - Should we ship now?
+2024-04-26 15:55:57.764 INFO  Received OrderPlaced, OrderId = 3f7dee5d-9aca-4ee8-b8a5-148b3a85af1f - Should we ship now?
+2024-04-26 15:55:57.796 INFO  Received OrderBilled, OrderId = 3f7dee5d-9aca-4ee8-b8a5-148b3a85af1f - Should we ship now?
+2024-04-26 15:58:40.654 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Shipping\bin\Debug\net8.0\' with level Info
+2024-04-26 15:58:41.194 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:58:42.062 INFO  Received OrderPlaced, OrderId = 885b958d-ce04-454a-bf00-00db1b11ade8 - Should we ship now?
+2024-04-26 15:58:42.158 INFO  Received OrderBilled, OrderId = 885b958d-ce04-454a-bf00-00db1b11ade8 - Should we ship now?
+2024-04-26 15:58:48.645 INFO  Received OrderPlaced, OrderId = 260d0f1c-3759-439a-9d89-4be161dd5e08 - Should we ship now?
+2024-04-26 15:58:48.671 INFO  Received OrderBilled, OrderId = 260d0f1c-3759-439a-9d89-4be161dd5e08 - Should we ship now?
+2024-04-26 15:58:49.999 INFO  Received OrderPlaced, OrderId = c0e7f05d-cfbe-4d1e-ab3c-8c7e3c32a07b - Should we ship now?
+2024-04-26 15:58:50.025 INFO  Received OrderBilled, OrderId = c0e7f05d-cfbe-4d1e-ab3c-8c7e3c32a07b - Should we ship now?
+2024-04-26 15:58:51.044 INFO  Received OrderPlaced, OrderId = 3c6fff08-750c-48bc-8d68-e0312c3ccdce - Should we ship now?
+2024-04-26 15:58:51.074 INFO  Received OrderBilled, OrderId = 3c6fff08-750c-48bc-8d68-e0312c3ccdce - Should we ship now?
+2024-04-26 15:58:52.317 INFO  Received OrderPlaced, OrderId = 5de8fd02-196c-430b-a7d0-f710fe4cfd40 - Should we ship now?
+2024-04-26 15:58:52.354 INFO  Received OrderBilled, OrderId = 5de8fd02-196c-430b-a7d0-f710fe4cfd40 - Should we ship now?
+2024-04-26 15:58:54.063 INFO  Received OrderPlaced, OrderId = 901a9ed7-539b-4e9b-896a-75349d1f96ea - Should we ship now?
+2024-04-26 15:58:54.094 INFO  Received OrderBilled, OrderId = 901a9ed7-539b-4e9b-896a-75349d1f96ea - Should we ship now?
+2024-04-26 15:58:55.503 INFO  Received OrderPlaced, OrderId = f55a398f-7331-4cb0-83f2-96541e985a23 - Should we ship now?
+2024-04-26 15:58:55.536 INFO  Received OrderBilled, OrderId = f55a398f-7331-4cb0-83f2-96541e985a23 - Should we ship now?
+2024-04-26 15:58:56.955 INFO  Received OrderPlaced, OrderId = b6650886-22c3-4425-a210-b9c8565f791f - Should we ship now?
+2024-04-26 15:58:56.985 INFO  Received OrderBilled, OrderId = b6650886-22c3-4425-a210-b9c8565f791f - Should we ship now?
+2024-04-26 15:59:02.071 INFO  Received OrderPlaced, OrderId = 7238cd91-020e-4fc1-9aa4-713b608cdb4b - Should we ship now?
+2024-04-26 15:59:02.099 INFO  Received OrderBilled, OrderId = 7238cd91-020e-4fc1-9aa4-713b608cdb4b - Should we ship now?
+2024-04-26 16:00:17.259 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Shipping\bin\Debug\net8.0\' with level Info
+2024-04-26 16:00:17.538 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 16:00:23.977 INFO  Received OrderPlaced, OrderId = e07cdf84-c62e-4351-bd14-e7cf038d7890 - Should we ship now?
+2024-04-26 16:00:24.034 INFO  Received OrderBilled, OrderId = e07cdf84-c62e-4351-bd14-e7cf038d7890 - Should we ship now?
+2024-04-26 16:00:29.978 INFO  Received OrderPlaced, OrderId = 24ec0e95-83db-436d-84c8-47540753115b - Should we ship now?
+2024-04-26 16:00:30.011 INFO  Received OrderBilled, OrderId = 24ec0e95-83db-436d-84c8-47540753115b - Should we ship now?
+2024-04-26 16:07:27.112 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Shipping\bin\Debug\net8.0\' with level Info
+2024-04-26 16:07:27.451 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 16:07:33.560 INFO  Received OrderPlaced, OrderId = c950fd1d-958e-455b-947f-1ed7ed0d190d - Should we ship now?
+2024-04-26 16:07:33.609 INFO  Received OrderBilled, OrderId = c950fd1d-958e-455b-947f-1ed7ed0d190d - Should we ship now?
+2024-04-26 16:08:39.526 INFO  Received OrderPlaced, OrderId = ddb6b439-d35f-41dc-be2f-7270b6e3a4c3 - Should we ship now?
+2024-04-26 16:08:39.557 INFO  Received OrderBilled, OrderId = ddb6b439-d35f-41dc-be2f-7270b6e3a4c3 - Should we ship now?
+2024-04-26 16:12:30.934 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Shipping\bin\Debug\net8.0\' with level Info
+2024-04-26 16:12:31.214 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 16:12:37.076 INFO  Received OrderPlaced, OrderId = cea63560-334b-4a8a-a9fd-cc64d43d7eb9 - Should we ship now?
+2024-04-26 16:12:37.136 INFO  Received OrderBilled, OrderId = cea63560-334b-4a8a-a9fd-cc64d43d7eb9 - Should we ship now?
+2024-04-26 16:12:38.157 INFO  Received OrderPlaced, OrderId = e8572f64-57b6-4dad-b4c4-1e5ce48e6ebf - Should we ship now?
+2024-04-26 16:12:38.190 INFO  Received OrderBilled, OrderId = e8572f64-57b6-4dad-b4c4-1e5ce48e6ebf - Should we ship now?
+2024-04-26 16:12:39.515 INFO  Received OrderPlaced, OrderId = 5116e055-f1fe-468d-9dbe-894a0c385c14 - Should we ship now?
+2024-04-26 16:12:39.542 INFO  Received OrderBilled, OrderId = 5116e055-f1fe-468d-9dbe-894a0c385c14 - Should we ship now?

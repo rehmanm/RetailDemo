@@ -1,0 +1,12 @@
+C:\work\learning\.net\RetailDemo\Billing.Messages\bin\Debug\net8.0\Billing.Messages.deps.json
+C:\work\learning\.net\RetailDemo\Billing.Messages\bin\Debug\net8.0\Billing.Messages.dll
+C:\work\learning\.net\RetailDemo\Billing.Messages\bin\Debug\net8.0\Billing.Messages.pdb
+C:\work\learning\.net\RetailDemo\Billing.Messages\obj\Debug\net8.0\Billing.Messages.csproj.AssemblyReference.cache
+C:\work\learning\.net\RetailDemo\Billing.Messages\obj\Debug\net8.0\Billing.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\learning\.net\RetailDemo\Billing.Messages\obj\Debug\net8.0\Billing.Messages.AssemblyInfoInputs.cache
+C:\work\learning\.net\RetailDemo\Billing.Messages\obj\Debug\net8.0\Billing.Messages.AssemblyInfo.cs
+C:\work\learning\.net\RetailDemo\Billing.Messages\obj\Debug\net8.0\Billing.Messages.csproj.CoreCompileInputs.cache
+C:\work\learning\.net\RetailDemo\Billing.Messages\obj\Debug\net8.0\Billing.Messages.dll
+C:\work\learning\.net\RetailDemo\Billing.Messages\obj\Debug\net8.0\refint\Billing.Messages.dll
+C:\work\learning\.net\RetailDemo\Billing.Messages\obj\Debug\net8.0\Billing.Messages.pdb
+C:\work\learning\.net\RetailDemo\Billing.Messages\obj\Debug\net8.0\ref\Billing.Messages.dll

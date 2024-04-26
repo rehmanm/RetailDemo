@@ -1,0 +1,12 @@
+C:\work\learning\.net\RetailDemo\Messages\bin\Debug\net8.0\Sales.Messages.deps.json
+C:\work\learning\.net\RetailDemo\Messages\bin\Debug\net8.0\Sales.Messages.dll
+C:\work\learning\.net\RetailDemo\Messages\bin\Debug\net8.0\Sales.Messages.pdb
+C:\work\learning\.net\RetailDemo\Messages\obj\Debug\net8.0\Sales.Messages.csproj.AssemblyReference.cache
+C:\work\learning\.net\RetailDemo\Messages\obj\Debug\net8.0\Sales.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\learning\.net\RetailDemo\Messages\obj\Debug\net8.0\Sales.Messages.AssemblyInfoInputs.cache
+C:\work\learning\.net\RetailDemo\Messages\obj\Debug\net8.0\Sales.Messages.AssemblyInfo.cs
+C:\work\learning\.net\RetailDemo\Messages\obj\Debug\net8.0\Sales.Messages.csproj.CoreCompileInputs.cache
+C:\work\learning\.net\RetailDemo\Messages\obj\Debug\net8.0\Sales.Messages.dll
+C:\work\learning\.net\RetailDemo\Messages\obj\Debug\net8.0\refint\Sales.Messages.dll
+C:\work\learning\.net\RetailDemo\Messages\obj\Debug\net8.0\Sales.Messages.pdb
+C:\work\learning\.net\RetailDemo\Messages\obj\Debug\net8.0\ref\Sales.Messages.dll

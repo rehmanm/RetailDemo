@@ -1,0 +1,260 @@
+﻿2024-04-26 15:11:25.127 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:12:21.864 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:12:22.341 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:13:46.627 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:13:47.113 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:15:07.856 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:15:08.332 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:17:06.874 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:17:07.265 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:17:27.223 INFO  Initiating shutdown.
+2024-04-26 15:17:27.235 INFO  Shutdown complete.
+2024-04-26 15:21:21.877 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:21:22.298 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:22:41.037 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:22:41.486 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:22:44.055 INFO  Received PlaceOrder, OrderId = c8fc6d7d-b720-422b-88fd-56b75f609fc9
+2024-04-26 15:22:44.135 INFO  Received PlaceOrder, OrderId = 290e7850-7b1a-4cb3-8f0b-371d5f035c2c
+2024-04-26 15:22:44.232 INFO  Received PlaceOrder, OrderId = 1efc4127-d107-4707-86a5-5e10123e6287
+2024-04-26 15:22:44.367 INFO  Received PlaceOrder, OrderId = 644618b7-be54-40f7-80b3-564c9cd18c1f
+2024-04-26 15:22:44.553 INFO  Received PlaceOrder, OrderId = 76589d5f-bd18-44ce-978b-6df4976913bd
+2024-04-26 15:22:45.414 INFO  Received PlaceOrder, OrderId = 48e6cedc-8efa-4bfd-a2f2-c4d2e5000642
+2024-04-26 15:22:45.786 INFO  Received PlaceOrder, OrderId = d0dbad3c-b860-4c64-a12e-4dafc4fc29c8
+2024-04-26 15:23:55.297 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:23:55.741 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:25:08.337 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:25:08.730 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:25:15.011 INFO  Received PlaceOrder, OrderId = 3d34acbc-9b58-4bd1-a004-80c6a9a1bda8
+2024-04-26 15:25:36.100 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:25:36.402 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:25:42.244 INFO  Received PlaceOrder, OrderId = efbb8899-8f89-4217-95a0-4f8bd0240f27
+2024-04-26 15:37:01.868 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:37:02.128 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:37:07.411 INFO  Received PlaceOrder, OrderId = f8154641-d5b9-4bb2-b7bb-d810f91e5e89
+2024-04-26 15:42:59.583 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:42:59.847 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:43:04.037 INFO  Received PlaceOrder, OrderId = 6c36c6f0-ca5b-48df-88ad-bb729ba0db82
+2024-04-26 15:46:24.189 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:46:24.517 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:46:39.138 INFO  Received PlaceOrder, OrderId = 4b48e079-b4bc-4a84-af1f-b8f4272cfe4d
+2024-04-26 15:51:59.192 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:51:59.532 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:52:04.979 INFO  Received PlaceOrder, OrderId = af2a2179-6384-4904-9ed0-c398ef6de19b
+2024-04-26 15:52:46.379 INFO  Received PlaceOrder, OrderId = 33449bf0-1b35-487f-986a-f7e2e7fa445c
+2024-04-26 15:55:31.716 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:55:31.938 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:55:39.031 INFO  Received PlaceOrder, OrderId = ee9f1b31-5861-4450-af47-fabe55a2abca
+2024-04-26 15:55:39.909 INFO  Received PlaceOrder, OrderId = fced44f2-fd51-4c05-8a01-b949634d77b7
+2024-04-26 15:55:40.304 INFO  Received PlaceOrder, OrderId = f1846e1e-0d7d-421c-9b29-53a8c8e0e25c
+2024-04-26 15:55:40.604 INFO  Received PlaceOrder, OrderId = dcc31923-f1ec-4152-ba78-77f6c06048ba
+2024-04-26 15:55:40.882 INFO  Received PlaceOrder, OrderId = 5f8bced0-8610-410d-aaca-59836ab7e308
+2024-04-26 15:55:41.149 INFO  Received PlaceOrder, OrderId = be803941-0e71-4e6c-a4c0-6a7c1cd2c669
+2024-04-26 15:55:43.903 INFO  Immediate Retry is going to retry message 'fa699d1d-61a5-410d-9802-b15e014867a5' because of an exception:
+System.Exception: Oops
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\work\learning\.net\RetailDemo\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 44
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Sales.Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2024-04-26 19:55:41:149101 Z
+	Handler failure time: 2024-04-26 19:55:43:848614 Z
+	Handler canceled: False
+	Message ID: fa699d1d-61a5-410d-9802-b15e014867a5
+	Transport message ID: d3b3aed2-420d-4b00-b519-abdc0422fda1
+	Pipeline canceled: False
+2024-04-26 15:55:43.938 INFO  Received PlaceOrder, OrderId = be803941-0e71-4e6c-a4c0-6a7c1cd2c669
+2024-04-26 15:55:47.960 INFO  Received PlaceOrder, OrderId = 643d83fa-fff5-49d3-8893-ca4725927ca5
+2024-04-26 15:55:50.296 INFO  Immediate Retry is going to retry message '3890e830-e98d-49cb-9fb3-b15e01486fa2' because of an exception:
+System.Exception: Oops
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\work\learning\.net\RetailDemo\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 44
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Sales.Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2024-04-26 19:55:47:960298 Z
+	Handler failure time: 2024-04-26 19:55:50:293591 Z
+	Handler canceled: False
+	Message ID: 3890e830-e98d-49cb-9fb3-b15e01486fa2
+	Transport message ID: 7d1a75ce-12aa-4646-a203-af16ce1c953b
+	Pipeline canceled: False
+2024-04-26 15:55:50.316 INFO  Received PlaceOrder, OrderId = 643d83fa-fff5-49d3-8893-ca4725927ca5
+2024-04-26 15:55:52.124 INFO  Immediate Retry is going to retry message '3890e830-e98d-49cb-9fb3-b15e01486fa2' because of an exception:
+System.Exception: Oops
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\work\learning\.net\RetailDemo\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 44
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Sales.Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2024-04-26 19:55:50:316635 Z
+	Handler failure time: 2024-04-26 19:55:52:121575 Z
+	Handler canceled: False
+	Message ID: 3890e830-e98d-49cb-9fb3-b15e01486fa2
+	Transport message ID: 7d1a75ce-12aa-4646-a203-af16ce1c953b
+	Pipeline canceled: False
+2024-04-26 15:55:52.140 INFO  Received PlaceOrder, OrderId = 643d83fa-fff5-49d3-8893-ca4725927ca5
+2024-04-26 15:55:55.216 INFO  Received PlaceOrder, OrderId = 1a485c4e-4be5-4d59-8148-56d82a4020f5
+2024-04-26 15:55:56.140 INFO  Received PlaceOrder, OrderId = 88c67b01-1439-43e6-a8dc-55cf650d25fd
+2024-04-26 15:55:57.202 INFO  Received PlaceOrder, OrderId = 9a81cbcc-7073-4518-a5e0-5419399e9b85
+2024-04-26 15:55:57.732 INFO  Received PlaceOrder, OrderId = 3f7dee5d-9aca-4ee8-b8a5-148b3a85af1f
+2024-04-26 15:55:58.143 INFO  Received PlaceOrder, OrderId = 885b958d-ce04-454a-bf00-00db1b11ade8
+2024-04-26 15:58:40.932 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 15:58:41.346 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 15:58:41.867 INFO  Received PlaceOrder, OrderId = 885b958d-ce04-454a-bf00-00db1b11ade8
+2024-04-26 15:58:48.610 INFO  Received PlaceOrder, OrderId = 260d0f1c-3759-439a-9d89-4be161dd5e08
+2024-04-26 15:58:49.964 INFO  Received PlaceOrder, OrderId = c0e7f05d-cfbe-4d1e-ab3c-8c7e3c32a07b
+2024-04-26 15:58:51.012 INFO  Received PlaceOrder, OrderId = 3c6fff08-750c-48bc-8d68-e0312c3ccdce
+2024-04-26 15:58:52.274 INFO  Received PlaceOrder, OrderId = 5de8fd02-196c-430b-a7d0-f710fe4cfd40
+2024-04-26 15:58:54.033 INFO  Received PlaceOrder, OrderId = 901a9ed7-539b-4e9b-896a-75349d1f96ea
+2024-04-26 15:58:55.472 INFO  Received PlaceOrder, OrderId = f55a398f-7331-4cb0-83f2-96541e985a23
+2024-04-26 15:58:56.923 INFO  Received PlaceOrder, OrderId = b6650886-22c3-4425-a210-b9c8565f791f
+2024-04-26 15:58:58.122 INFO  Received PlaceOrder, OrderId = 7238cd91-020e-4fc1-9aa4-713b608cdb4b
+2024-04-26 15:59:02.007 INFO  Immediate Retry is going to retry message 'b5991894-1487-4a39-bb74-b15e01494e77' because of an exception:
+System.Exception: Oops
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\work\learning\.net\RetailDemo\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 44
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Sales.Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2024-04-26 19:58:58:122027 Z
+	Handler failure time: 2024-04-26 19:59:01:965536 Z
+	Handler canceled: False
+	Message ID: b5991894-1487-4a39-bb74-b15e01494e77
+	Transport message ID: 66d980c7-cd60-4c70-939c-0f7e0af98d73
+	Pipeline canceled: False
+2024-04-26 15:59:02.039 INFO  Received PlaceOrder, OrderId = 7238cd91-020e-4fc1-9aa4-713b608cdb4b
+2024-04-26 16:00:19.074 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 16:00:19.305 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 16:00:23.809 INFO  Received PlaceOrder, OrderId = e07cdf84-c62e-4351-bd14-e7cf038d7890
+2024-04-26 16:00:25.447 INFO  Received PlaceOrder, OrderId = 24ec0e95-83db-436d-84c8-47540753115b
+2024-04-26 16:00:28.230 INFO  Immediate Retry is going to retry message '1865fb74-1af2-41de-957d-b15e0149b4ce' because of an exception:
+System.Exception: Oops
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\work\learning\.net\RetailDemo\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 44
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Sales.Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2024-04-26 20:00:25:447827 Z
+	Handler failure time: 2024-04-26 20:00:28:194713 Z
+	Handler canceled: False
+	Message ID: 1865fb74-1af2-41de-957d-b15e0149b4ce
+	Transport message ID: 553c54d8-47f0-4db9-95a4-6183a36dd9a0
+	Pipeline canceled: False
+2024-04-26 16:00:28.258 INFO  Received PlaceOrder, OrderId = 24ec0e95-83db-436d-84c8-47540753115b
+2024-04-26 16:00:29.923 INFO  Immediate Retry is going to retry message '1865fb74-1af2-41de-957d-b15e0149b4ce' because of an exception:
+System.Exception: Oops
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\work\learning\.net\RetailDemo\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 44
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Sales.Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2024-04-26 20:00:28:258724 Z
+	Handler failure time: 2024-04-26 20:00:29:920494 Z
+	Handler canceled: False
+	Message ID: 1865fb74-1af2-41de-957d-b15e0149b4ce
+	Transport message ID: 553c54d8-47f0-4db9-95a4-6183a36dd9a0
+	Pipeline canceled: False
+2024-04-26 16:00:29.946 INFO  Received PlaceOrder, OrderId = 24ec0e95-83db-436d-84c8-47540753115b
+2024-04-26 16:07:27.902 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 16:07:28.181 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 16:07:33.397 INFO  Received PlaceOrder, OrderId = c950fd1d-958e-455b-947f-1ed7ed0d190d
+2024-04-26 16:08:37.291 INFO  Received PlaceOrder, OrderId = ddb6b439-d35f-41dc-be2f-7270b6e3a4c3
+2024-04-26 16:08:39.458 INFO  Immediate Retry is going to retry message '2f474d20-9198-4599-8acc-b15e014bf530' because of an exception:
+System.Exception: Oops
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\work\learning\.net\RetailDemo\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 44
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Sales.Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2024-04-26 20:08:37:291454 Z
+	Handler failure time: 2024-04-26 20:08:39:425326 Z
+	Handler canceled: False
+	Message ID: 2f474d20-9198-4599-8acc-b15e014bf530
+	Transport message ID: 9b6f8449-c763-44ff-9481-bb73be993ba0
+	Pipeline canceled: False
+2024-04-26 16:08:39.495 INFO  Received PlaceOrder, OrderId = ddb6b439-d35f-41dc-be2f-7270b6e3a4c3
+2024-04-26 16:12:33.422 INFO  Logging to 'C:\work\learning\.net\RetailDemo\Sales\bin\Debug\net8.0\' with level Info
+2024-04-26 16:12:33.822 INFO  Selected active license from C:\Users\mrehman1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2024-07-25
+2024-04-26 16:12:36.923 INFO  Received PlaceOrder, OrderId = cea63560-334b-4a8a-a9fd-cc64d43d7eb9
+2024-04-26 16:12:38.127 INFO  Received PlaceOrder, OrderId = e8572f64-57b6-4dad-b4c4-1e5ce48e6ebf
+2024-04-26 16:12:39.480 INFO  Received PlaceOrder, OrderId = 5116e055-f1fe-468d-9dbe-894a0c385c14
